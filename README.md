@@ -1,6 +1,6 @@
 # chatgpt-official
 # ChatGPT官方版使用说明书
-# 官方站点网址
+## 官方站点网址
 
 免费公益官方站点：https://freegpt.jjh.ink/
 
@@ -32,11 +32,11 @@
 
 售后/售前交流QQ群：812157138 
 
-# 视频教学
+## 视频教学
 
 https://space.bilibili.com/552547575
 
-# 为什么选我们？
+## 为什么选我们？
 
 ●使用OpenAI的GPT国外官网需要魔法，不但魔法需要每个月购买，用也不方便，而且大部分学校/企业发现此类行为会被处以重罚，甚至开除！
 
@@ -46,7 +46,7 @@ https://space.bilibili.com/552547575
 
 ●全网唯一能够持久提供免费公益的官网ChatGPT4o/4.0/GPTs/3.5，但由于Plus价格成本太贵，还有服务器成本，没法保障每个免费用户的使用要求。温馨提示：请避开高峰期合理使用免费4o/4.0/GPTs，敬请理解！
 
-我们站点的优势：
+### 我们站点的优势：
 
 ●无需魔法、无需注册即可跳转进入ChatGPT官网，后台账号全部由我们批量购买。价格比国外官网低；
 
@@ -58,7 +58,7 @@ https://space.bilibili.com/552547575
 
 做下去的动力。全网唯一能够持久提供免费公益4.0/GPTs/3.5站点，而且会员站点体验感会更好，随时随地可用！
 
-# 初次使用网站
+## 初次使用网站
 
 前提条件：首选建议使用谷歌浏览器 。如果没有，可以到官网下载：https://www.chromegw.com/
 
@@ -142,7 +142,7 @@ https://docs.qq.com/doc/DWk54VWVhZFJPZHhuhttps://docs.qq.com/doc/DWk54VWVhZFJPZH
 
 <img width="454" alt="image" src="https://github.com/user-attachments/assets/f79d47d3-d0a8-4b32-96d7-9d420132d21a">
 
-# 初次使用疑问解答：
+## 初次使用疑问解答：
 
 1、出现如下提示，说明该车（对应账号）或者该授权码已触发官网Plus限制（每3小时40次），一个授权码是每3小时60-80次4.0/4o提问，请退出换一个账号或者换一个Plus授权码使用，也可以等待上面提示的时间后，新建对话，方可继续使用Plus！
 
@@ -168,7 +168,7 @@ https://docs.qq.com/doc/DWk54VWVhZFJPZHhuhttps://docs.qq.com/doc/DWk54VWVhZFJPZH
 
 <img width="437" alt="image" src="https://github.com/user-attachments/assets/f564d3e3-6c7f-43a6-ab58-8efd6ccfab63">
 
-# 进阶一：数据分析
+## 进阶一：数据分析
 
 文件比较小
 
@@ -192,13 +192,13 @@ https://docs.qq.com/doc/DWk54VWVhZFJPZHhuhttps://docs.qq.com/doc/DWk54VWVhZFJPZH
 
 根据它返回的代码，自己到本地读取数据运行即可，这样就实现了大数据文件的分析。
 
-# 进阶二：语音对话
+## 进阶二：语音对话
 
 <img width="454" alt="image" src="https://github.com/user-attachments/assets/bb8bf094-2411-4649-bbed-dde571014f26">
 
 <img width="454" alt="image" src="https://github.com/user-attachments/assets/37f96520-c41e-42d3-bf8d-08261c891664">
 
-# 读论文
+## 读论文
 
 可以大致这样进行提问：
 
@@ -206,7 +206,7 @@ https://docs.qq.com/doc/DWk54VWVhZFJPZHhuhttps://docs.qq.com/doc/DWk54VWVhZFJPZH
 
 具体需要问什么，根据你的需求来即可。
 
-# 图像局部编辑
+## 图像局部编辑
 
 图像局部编辑修改，画图越来越完美了，4.0用户都可以玩，GPTs地址：
 
@@ -218,7 +218,7 @@ https://cloud.jlkjy.cn/g/g-2fkFE8rbu-dall-e
 
 <img width="454" alt="image" src="https://github.com/user-attachments/assets/4dca1d43-4bd1-4df1-b7e4-8b2684bdbf07">
 
-# 优秀的GPTS推荐（GPTs链接进入需要登录授权码状态下）
+## 优秀的GPTS推荐（GPTs链接进入需要登录授权码状态下）
 
 为什么需要使用GPTS呢？因为它能更加专业回答你的问题，因此如果你觉得主界面提问回答质量不够理想，可以去选择一个合适的GPTS使用。
 
@@ -574,7 +574,7 @@ C语言代码生成器
 
 常见问题：如何写论文？
 
-# 如何写合理的大纲？
+## 如何写合理的大纲？
 
 我的建议，首先把自己做的毕设项目大概写个说明文档，然后把说明文档全部给GPT，让它给你生成一个大纲，这样的大纲才是完美的。GPT知道你做的是什么，才能为你生成对应的大纲。
 
@@ -590,7 +590,7 @@ GPT写一篇优秀的论文到底要多久？
 
 至少一天，不要想几个小时就写好论文。即使有AI的辅助，你依然需要进行相关部分的调整，以及内容的结构调整。所以来来回回检查和调整，我认为需要一天的时间才能完成。
 
-# 聊天对话记录复制保存教程
+## 聊天对话记录复制保存教程
 
 <img width="454" alt="image" src="https://github.com/user-attachments/assets/8f02762b-482c-4cae-881d-df4f9837eb4f">
 
@@ -609,7 +609,7 @@ GPT写一篇优秀的论文到底要多久？
 <img width="454" alt="image" src="https://github.com/user-attachments/assets/b061d0da-10ba-47e9-9f6c-a6fb45d44fee">
 
 
-# 官方群
+## 官方群
 
 这是AI社区QQ⑤内部群（群内也有包括免费授权码)，重要资源和维护信息通知群!
 
