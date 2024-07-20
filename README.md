@@ -10,7 +10,7 @@ ChatGPT官方版使用说明书
 
 下面以会员站点为例，免费公益站点类似！
 
-<img width="913" alt="image" src="https://github.com/user-attachments/assets/518de46b-096b-46c0-82a2-5609505de5e3">
+<img width="454" alt="image" src="https://github.com/user-attachments/assets/95b47623-6081-4364-b1fe-f83052d56b20">
 
 号外：
 
@@ -21,6 +21,20 @@ ChatGPT官方版使用说明书
 3、菁林系统维护升级中：https://chatgpt.jjh.ink
 
 4、菁林科技说AI官网地址：https://www.jlkjy.cn
+
+商城地址：https://shop.jlkjy.cn/ (江苏福建部分地区可能打不开，需要魔法)
+
+<img width="454" alt="image" src="https://github.com/user-attachments/assets/55d999f9-177c-47a7-ba6d-91423409984b">
+
+选择plus账号进入，输入授权码，如下所示：
+
+<img width="454" alt="image" src="https://github.com/user-attachments/assets/a3ecbf6c-1802-4436-8043-f1f5bdb10fe2">
+
+售后/售前交流QQ群：812157138 
+
+视频教学
+
+https://space.bilibili.com/552547575
 
 为什么选我们？
 
@@ -50,11 +64,11 @@ ChatGPT官方版使用说明书
 
 其他浏览器也是可以的！
 
-使用前需要了解的
+使用前需要了解的：
 
 打开网站，界面如下：
 
-
+<img width="454" alt="image" src="https://github.com/user-attachments/assets/12431caf-6d53-4f7f-9c2f-76b46ab060ac">
 
 部分标志说明如下：
 
@@ -70,19 +84,23 @@ ChatGPT官方版使用说明书
 
 ●停运：表示该账户已达到频率限制顶峰，需要等到达对应时间后才能被使用，请不要选择该状态账户使用。
 
+<img width="454" alt="image" src="https://github.com/user-attachments/assets/9fa17a3d-6b3b-42dc-9748-f3a57ef04385">
 
 开始使用
 
-选择对应状态的入口进入，界面如下：
+选择对应状态的入口进入，界面如下：
+
+<img width="291" alt="image" src="https://github.com/user-attachments/assets/2fc35f55-a00e-4c5d-9260-13fabfa326be">
 
 其中授权码（UserToken）需要填写你的授权码，直接复制我给你的授权码即可。
 
 如果你没有授权码，需要到【菁林商城】自助下单对应时长的授权码，旗舰店自助平台网址为：https://shop.jjh.ink/ 下单后请点开【查看】就可看到授权码，自动发货，请注意查收。
 
-
+<img width="377" alt="image" src="https://github.com/user-attachments/assets/aeec1a65-313b-41cb-8798-4f1201b46662">
 
 也可以通过“订单号”查询，如下图：
 
+<img width="450" alt="image" src="https://github.com/user-attachments/assets/0aa233b5-deed-4205-a531-30663f3ab3a7">
 
 有时页面不在了，通过支付页面获取订单号。
 
@@ -108,19 +126,21 @@ https://docs.qq.com/doc/DWk54VWVhZFJPZHhuhttps://docs.qq.com/doc/DWk54VWVhZFJPZH
 
 正确输入授权码后，界面如下，可以直接跳转ChatGPT官方网站：
 
-
+<img width="454" alt="image" src="https://github.com/user-attachments/assets/6d38681f-d107-484c-86da-03a21cfd6d22">
 
 在左上侧，可以选择你需要使用的模型：
 
+<img width="454" alt="image" src="https://github.com/user-attachments/assets/eecb5d70-b783-4146-b913-2744461675b5">
 
 其中GPT-4的频率限制为每3小时40次提问频率，注意是频率，不是总共只能用这么点。GPT-3.5则对你来说是无限次的。一个授权码的4.0/4o次数是每3小时60-80次。
 
 这里是对话框，需要问什么，可以在这里进行提问：
 
-
+<img width="454" alt="image" src="https://github.com/user-attachments/assets/00541077-39f2-4bfe-85da-6dbbd4ad5c4d">
 
 例如：
 
+<img width="454" alt="image" src="https://github.com/user-attachments/assets/f79d47d3-d0a8-4b32-96d7-9d420132d21a">
 
 初次使用疑问解答：
 
@@ -128,36 +148,47 @@ https://docs.qq.com/doc/DWk54VWVhZFJPZHhuhttps://docs.qq.com/doc/DWk54VWVhZFJPZH
 
 免费点由于使用人较多，请避开高峰期合理使用；会员点不必考虑，会员点账号更多，授权码为独享或3人共享，会员点体验感会更好，随时随地可用！
 
+<img width="454" alt="image" src="https://github.com/user-attachments/assets/318e5eab-ac2f-4380-863c-23ea89dded81">
 
 2、企业版Team账号Plus：企业版空间和个人空间是隔离的，是属于不同的两个空间，对话不是存在一起的，是分开的。企业版空间有GPTs商店功能，而个人空间不具有GPTs，如下图：
 
      企业版空间（有GPTs）：
 
+     <img width="437" alt="image" src="https://github.com/user-attachments/assets/dc40494f-579f-47c4-b144-b41a2d5be759">
 
      个人空间（无GPTs）：
 
+     <img width="437" alt="image" src="https://github.com/user-attachments/assets/c14793f7-f748-40ae-b4d2-80c324631511">
 
 3、个人版本Team号Plus无GPTs，如下图：
 
-
+<img width="437" alt="image" src="https://github.com/user-attachments/assets/ae1e06ba-312c-4d02-8f57-acc901a148fe">
 
 4、非Team号Plus有GPTs，如下图：
 
-
+<img width="437" alt="image" src="https://github.com/user-attachments/assets/f564d3e3-6c7f-43a6-ab58-8efd6ccfab63">
 
 进阶一：数据分析
 
 文件比较小
 
-在数据量不大情况下，可以直接上传文件进行分析：
+在数据量不大情况下，可以直接上传文件进行分析：
+
+<img width="454" alt="image" src="https://github.com/user-attachments/assets/98b271ff-cf7b-4b27-940a-fe1e31087e42">
 
 尽可能把你对数据的描述足够详细，包括你每一列数据的含义是什么都说清楚，这里我只是演示就不写了，如下：
 
+<img width="454" alt="image" src="https://github.com/user-attachments/assets/7f79f789-53f1-4f01-9861-72c4616594f1">
+
 有可能会遇到他回复中文，因此在提问的末尾加一句话”reply in chinese"即可：
+
+<img width="454" alt="image" src="https://github.com/user-attachments/assets/1779d092-e5af-40c6-9811-0420346c0558">
 
 文件比较大
 
-这种情况，即使可以上传完整文件让他分析，他可能回答你的是各种不断出错，因此需要减少上传的文件。如何减少呢？第一种为删除一部分再上传，第二种为手动复制一部分数据粘贴上传即可。以第二种为例，可以这样提问：
+这种情况，即使可以上传完整文件让他分析，他可能回答你的是各种不断出错，因此需要减少上传的文件。如何减少呢？第一种为删除一部分再上传，第二种为手动复制一部分数据粘贴上传即可。以第二种为例，可以这样提问：
+
+<img width="454" alt="image" src="https://github.com/user-attachments/assets/2abbd850-7673-4ad5-88d8-110c6c5cc2ab">
 
 根据它返回的代码，自己到本地读取数据运行即可，这样就实现了大数据文件的分析。
 
