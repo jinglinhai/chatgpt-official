@@ -154,11 +154,11 @@ https://docs.qq.com/doc/DWk54VWVhZFJPZHhuhttps://docs.qq.com/doc/DWk54VWVhZFJPZH
 
      企业版空间（有GPTs）：
 
-     <img width="437" alt="image" src="https://github.com/user-attachments/assets/dc40494f-579f-47c4-b144-b41a2d5be759">
+<img width="437" alt="image" src="https://github.com/user-attachments/assets/18e692b0-f0f5-4eae-8bf9-a8e18a550d10">
 
      个人空间（无GPTs）：
 
-     <img width="437" alt="image" src="https://github.com/user-attachments/assets/c14793f7-f748-40ae-b4d2-80c324631511">
+<img width="437" alt="image" src="https://github.com/user-attachments/assets/e9b57c9b-a414-4d44-86bc-9f87fa6cfbf1">
 
 3、个人版本Team号Plus无GPTs，如下图：
 
@@ -194,13 +194,15 @@ https://docs.qq.com/doc/DWk54VWVhZFJPZHhuhttps://docs.qq.com/doc/DWk54VWVhZFJPZH
 
 进阶二：语音对话
 
+<img width="454" alt="image" src="https://github.com/user-attachments/assets/bb8bf094-2411-4649-bbed-dde571014f26">
 
-
-
+<img width="454" alt="image" src="https://github.com/user-attachments/assets/37f96520-c41e-42d3-bf8d-08261c891664">
 
 读论文
 
-可以大致这样进行提问：
+可以大致这样进行提问：
+
+<img width="454" alt="image" src="https://github.com/user-attachments/assets/956e43c0-c80e-4bf1-b050-c65ff4f01ed4">
 
 具体需要问什么，根据你的需求来即可。
 
@@ -210,9 +212,11 @@ https://docs.qq.com/doc/DWk54VWVhZFJPZHhuhttps://docs.qq.com/doc/DWk54VWVhZFJPZH
 
 https://cloud.jlkjy.cn/g/g-2fkFE8rbu-dall-e
 
+<img width="454" alt="image" src="https://github.com/user-attachments/assets/51053e6a-7b29-40da-a91d-e4b2aa14fc8a">
 
+<img width="454" alt="image" src="https://github.com/user-attachments/assets/b5871ad4-6e38-4f4e-b4c6-c85fae7d660a">
 
-
+<img width="454" alt="image" src="https://github.com/user-attachments/assets/4dca1d43-4bd1-4df1-b7e4-8b2684bdbf07">
 
 优秀的GPTS推荐（GPTs链接进入需要登录授权码状态下）
 
@@ -220,7 +224,12 @@ https://cloud.jlkjy.cn/g/g-2fkFE8rbu-dall-e
 
 点击这里可以进入GPTS界面：
 
+<img width="376" alt="image" src="https://github.com/user-attachments/assets/286ea407-6d76-47bc-a8b9-90e0116e949f">
+
 这里有大量供你选择：
+
+<img width="454" alt="image" src="https://github.com/user-attachments/assets/48d259a0-9739-4751-bc25-c6484514c7fc">
+
 
 那么多的工具，我们该如何选择呢？下面根据我自己常用的，按分类帮大家推荐一些优秀的工具。
 
@@ -228,18 +237,30 @@ https://cloud.jlkjy.cn/g/g-2fkFE8rbu-dall-e
 
 这个是官网的数据分析插件，现在被搬运到GPTs来了：
 
+<img width="454" alt="image" src="https://github.com/user-attachments/assets/0b79f020-959a-4a21-b732-1abd89ce4ce4">
+
+
 
 地址：https://cloud.jlkjy.cn/g/g-HMNcP6w7d-data-analyst
+
+<img width="454" alt="image" src="https://github.com/user-attachments/assets/79888530-8b45-4742-b57b-e30ad1d8ef43">
+
 
 
 图像设计
 
 如果你想用它画画，可以优先选择这一部分的GPTs：
 
+<img width="454" alt="image" src="https://github.com/user-attachments/assets/9d752cc5-845e-4517-82fc-2ec3910d4d4e">
+
+
 
 各种图表/流程图/序列图/思维导图
 
 地址：https://cloud.jlkjy.cn/g/g-5QhhdsfDj-diagrams-show-me
+
+<img width="454" alt="image" src="https://github.com/user-attachments/assets/c0a6ee26-6c0f-42d3-83c5-e145a088aa2a">
+
 
 推荐可视化工具，地址:
 
@@ -247,13 +268,23 @@ https://cloud.jlkjy.cn/g/g-jBdvgesNC-diagram-data-research-analyze-visualize
 
 功能：绘制流程图、类图、数据库图、序列图、思维导图、时间线、实体关系图和饼图等等！
 
+<img width="128" alt="image" src="https://github.com/user-attachments/assets/89bbf929-fd05-4a89-baf7-f65ecd2a5719">
+
+<img width="107" alt="image" src="https://github.com/user-attachments/assets/e97b0e16-1745-40c4-9320-b417c395f5cf">
+
+
+
 
 联网搜索
 
 地址：https://cloud.jlkjy.cn/g/g-pNWGgUYqS-webpilot
 
+<img width="454" alt="image" src="https://github.com/user-attachments/assets/45e3a6fb-e620-4ad4-8197-605a3d59489f">
+
+
 当然，主界面（https://cloud.jlkjy.cn/）提问也是自带联网，但是提问的时候请加”联网“两个字：
 
+<img width="454" alt="image" src="https://github.com/user-attachments/assets/8c2d082a-c3c2-4ed5-a610-895c216099c4">
 
 
 Python助手
@@ -262,6 +293,7 @@ Python助手
 
 例如：
 
+<img width="454" alt="image" src="https://github.com/user-attachments/assets/261ff7f3-9d18-435b-82d3-2774bd126a52">
 
 
 万能代码助手（Copilot）
@@ -270,12 +302,16 @@ Python助手
 
 例如：
 
+<img width="454" alt="image" src="https://github.com/user-attachments/assets/39c611f7-d4ce-4379-ac2b-d34bf5640142">
+
 
 SQL代码助手
 
 地址：https://cloud.jlkjy.cn/g/g-m5lMeGifF-sql-expert
 
 例如：
+
+<img width="454" alt="image" src="https://github.com/user-attachments/assets/c6d2c42f-ae5c-408d-acfb-cdbf409f7ab7">
 
 
 Matlab代码助手
@@ -284,6 +320,7 @@ Matlab代码助手
 
 例如：
 
+<img width="454" alt="image" src="https://github.com/user-attachments/assets/db959f8d-1e80-4079-a685-94900e7962b6">
 
 
 数学建模编程专家
@@ -292,6 +329,7 @@ Matlab代码助手
 
 https://cloud.jlkjy.cn/g/g-JCKGtrKq2-shu-xue-jian-mo-bian-cheng-zhuan-jia
 
+<img width="454" alt="image" src="https://github.com/user-attachments/assets/c6d85f1f-1162-4c6d-afa0-a3791cfb829b">
 
 
 
@@ -301,6 +339,7 @@ https://cloud.jlkjy.cn/g/g-JCKGtrKq2-shu-xue-jian-mo-bian-cheng-zhuan-jia
 
 https://cloud.jlkjy.cn/g/g-1U5jMcmsV-zui-quan-shu-xue-jian-mo-sai-ti-zhu-shou
 
+<img width="454" alt="image" src="https://github.com/user-attachments/assets/560d10ad-5ace-4166-83af-5dfb396c25a7">
 
 全球数学建模竞赛编程助理（力推）
 
@@ -310,6 +349,8 @@ https://cloud.jlkjy.cn/g/g-H878i19uh-quan-qiu-shu-xue-jian-mo-jing-sai-bian-chen
 
 这个GPT将作为全球数学建模竞赛的助手，为参与者提供编程支持。它将帮助用户进行编码、调试和优化数学模型，提供准确的建议、解释和Python代码片段。它还可以在线运行Python代码，使用多个搜索引擎提供增强的答案，并直接打开URL或文件链接。它可以访问所有类型的网站以获取必要的信息。此外，它可以生成超长文本并提供详细解释。对于任何问题，用户可以在查询中添加“调用gpts.webpilot.ai”来请求联网。助手应快速、准确和支持性地响应，专注于帮助用户在竞赛任务中取得成功。助手应具备丰富的知识，专业和清晰的沟通。
 
+<img width="454" alt="image" src="https://github.com/user-attachments/assets/65d4e2cc-140c-4c0a-bc06-781de5b09dfe">
+
 
 数学建模比赛编程助手（力推）
 
@@ -317,12 +358,17 @@ https://cloud.jlkjy.cn/g/g-H878i19uh-quan-qiu-shu-xue-jian-mo-jing-sai-bian-chen
 
 https://cloud.jlkjy.cn/g/g-BwZyTpPCq-shu-xue-jian-mo-bi-sai-bian-cheng-zhuan-jia
 
+<img width="454" alt="image" src="https://github.com/user-attachments/assets/6f67f7d8-1818-460b-8662-67a544f45b62">
+
 
 数学建模竞赛论文编程助理（力推）
 
 https://cloud.jlkjy.cn/g/g-dBHNf9mRG-shu-xue-jian-mo-jing-sai-lun-wen-bian-cheng-zhu-li
 
 最全训练知识库，提供数学建模、数学分析及编程指导的竞赛助理。
+
+<img width="454" alt="image" src="https://github.com/user-attachments/assets/03a423da-0bd9-4625-a5bc-b5bba93e433c">
+
 
 全国数学建模大赛论文助手（力推）
 
@@ -332,15 +378,27 @@ https://cloud.jlkjy.cn/g/g-KLA2V6aTH-quan-guo-shu-xue-jian-mo-da-sai-lun-wen-zhu
 
 全国数学建模大赛论文助手，全面提供数学建模、数据分析和编程方面的指导。它会帮助用户准备和撰写比赛论文，包括结构内容、制定数学模型、分析数据，并确保表达的清晰和连贯。GPT会提供详细的指导、示例和建议，以符合比赛要求。它还能够解答疑问，并根据数学建模论文的最佳实践提供推荐。
 
+<img width="454" alt="image" src="https://github.com/user-attachments/assets/30b1428a-a658-4ed5-b8cc-bba95936a40b">
+
+
 C和C++助手
 
 C语言地址：https://cloud.jlkjy.cn/g/g-Dqqwww3pM-c
 
+<img width="454" alt="image" src="https://github.com/user-attachments/assets/3b8cd594-3666-4161-baef-fc3c6e9019d7">
+
+
 C++助手地址：https://cloud.jlkjy.cn/g/g-Bgk8s1qOs-c
+
+<img width="454" alt="image" src="https://github.com/user-attachments/assets/e9ceb54b-4056-4746-b3b9-3f56fff02d15">
+
 
 R语言代码助手
 
 地址：https://cloud.jlkjy.cn/g/g-iedyANQtM-r-and-r-studio-tutor
+
+<img width="454" alt="image" src="https://github.com/user-attachments/assets/28898c9d-bb1f-4bd5-9f26-7c3231a317af">
+
 
 论文助手（改写 润色 降重）（力推）
 
@@ -348,8 +406,12 @@ R语言代码助手
 
 地址：https://cloud.jlkjy.cn/g/g-0RZtt28mh-lun-wen-zhu-shou
 
+<img width="454" alt="image" src="https://github.com/user-attachments/assets/e657390c-a93a-46d2-9bb2-7c5ee6250d53">
+
 
 地址：https://cloud.jlkjy.cn/g/g-wkzpyfRp2-lun-wen-zhu-shou
+
+<img width="443" alt="image" src="https://github.com/user-attachments/assets/101f3e9d-7451-4e19-93bd-0960926743c1">
 
 
 毕业论文降重（力推）
@@ -358,6 +420,9 @@ https://cloud.jlkjy.cn/g/g-iNjwgDGK0-bi-ye-lun-wen-jiang-zhong
 
 毕业论文降重是一个专业的论文撰写专家，能够提供全面的写作、改写、润色及降重服务。
 
+<img width="454" alt="image" src="https://github.com/user-attachments/assets/828c6641-1355-429a-9b6d-c4086b8fd19c">
+
+
 
 毕业学术论文助理（内置4o模型力推）
 
@@ -365,17 +430,26 @@ https://cloud.jlkjy.cn/g/g-UrBNYwDVc-bi-ye-xue-zhu-lun-wen-zhu-li
 
 专业的毕业学术论文撰写专家助理，能够提供全面的写作、改写、润色及降重服务，避免AI检测，全方位论文指导！
 
+<img width="454" alt="image" src="https://github.com/user-attachments/assets/6ea20b41-cdec-4502-9887-70e26d2d91c9">
+
+
 论文助手专家（力推）
 
 论文助手专家是一位专业的论文撰写专家，专门负责根据用户提供的论文选题撰写完整的学术论文。它能提供改写、润色、降低重复率等服务，帮助用户提升论文的质量。论文助手专家会为用户提供专业的写作指导，帮助形成清晰、严谨的学术论文结构，确保内容的逻辑性和论据的充分性。在使用过程中，它会坚持学术诚信，确保所有提供的内容和建议都符合学术规范。
 
 https://cloud.jlkjy.cn/g/g-wFMyHOILq-lun-wen-zhu-shou-zhuan-jia
 
+<img width="454" alt="image" src="https://github.com/user-attachments/assets/05985e8c-5e54-425e-a529-ab9bce2a381e">
+
+
 论文降重
 
 地址：https://cloud.jlkjy.cn/g/g-n7vKUPnYO-xue-zhu-lun-wen-jiang-zhong
 
 地址：https://cloud.jlkjy.cn/g/g-OA8uckJgl-zhong-wen-lun-wen-jiang-zhong
+
+<img width="454" alt="image" src="https://github.com/user-attachments/assets/a2af7967-4b2c-4ead-9bb8-675065575e4c">
+
 
 
 学术论文润色（顶刊润色）
@@ -392,6 +466,7 @@ https://cloud.jlkjy.cn/g/g-n7vKUPnYO-xue-zhu-lun-wen-jiang-zhong
 
 专业的文献工具，地址：https://cloud.jlkjy.cn/g/g-L2HknCZTC-scholar-ai
 
+<img width="454" alt="image" src="https://github.com/user-attachments/assets/23606bad-7e91-4265-b568-6376555d4777">
 
 Scholar GPT也可以，应该查不到的数据库，地址：
 
@@ -401,14 +476,21 @@ PDF学术分析（AskYourPDF）
 
 地址：https://cloud.jlkjy.cn/g/g-UfFxTDMxq-askyourpdf-research-assistant
 
+<img width="454" alt="image" src="https://github.com/user-attachments/assets/f443532c-9293-421a-893b-de13d313708b">
 
 PDF文献阅读
 
 地址：https://cloud.jlkjy.cn/g/g-V2KIUZSj0-pdf-ai-pdf
 
+<img width="454" alt="image" src="https://github.com/user-attachments/assets/348f618d-2cba-46a3-a03f-ec6ca406f735">
+
+
 PDF AI使用工具
 
 地址：https://cloud.jlkjy.cn/g/g-dZyKGS17d-pdf-ai
+
+<img width="454" alt="image" src="https://github.com/user-attachments/assets/9540aa15-29be-4fe9-81a3-51aa7694bb8b">
+
 
 大学的数学问题求解
 
@@ -416,18 +498,24 @@ PDF AI使用工具
 
 例如：
 
+<img width="454" alt="image" src="https://github.com/user-attachments/assets/d82aa311-07b3-4da7-acf6-6b2c052fe98e">
+
+
 他会用代码帮你进行求解，如果错误，他会重新进行求解：
 
+<img width="454" alt="image" src="https://github.com/user-attachments/assets/65708087-bf17-47bc-89a3-de8e76db87c1">
 
 
 这个也可以：https://cloud.jlkjy.cn/g/g-9YeZz6m6k-math-solver  可以按步骤求解
 
+<img width="454" alt="image" src="https://github.com/user-attachments/assets/90349fcc-3068-4be9-b09f-cec42915c67e">
 
 
 更多GPTS
 
 你可以根据自己需求，在这里搜索相关的关键词即可：https://cloud.jlkjy.cn/gpts
 
+<img width="454" alt="image" src="https://github.com/user-attachments/assets/ea4000fa-330c-4f03-a7c4-f875c397813d">
 
 
 个人常用部分提示词分享
@@ -504,21 +592,33 @@ GPT写一篇优秀的论文到底要多久？
 
 聊天对话记录复制保存教程
 
+<img width="454" alt="image" src="https://github.com/user-attachments/assets/8f02762b-482c-4cae-881d-df4f9837eb4f">
 
 
-具体如下，选择对话框右边【三个点】的按钮，点击：（内部）调试  然后右侧点击：复制文本 
+具体如下，选择对话框右边【三个点】的按钮，点击：（内部）调试  
+
+<img width="454" alt="image" src="https://github.com/user-attachments/assets/00784e0a-c962-4751-8811-f0107c98f198">
+
+然后右侧点击：复制文本 
+
+<img width="454" alt="image" src="https://github.com/user-attachments/assets/d7e53e47-b5f1-4abf-9010-ab94e654a586">
+
 
 即可把当前对话框所有内容复制完出来。由于复制的微markdown格式，大家可以用工具：https://markdown.lovejade.cn ，粘贴到这里即可更方便查看。
+
+<img width="454" alt="image" src="https://github.com/user-attachments/assets/b061d0da-10ba-47e9-9f6c-a6fb45d44fee">
 
 
 官方群
 
 这是AI社区QQ⑤内部群（群内也有包括免费授权码)，重要资源和维护信息通知群!
 
-,l
+<img width="217" alt="image" src="https://github.com/user-attachments/assets/18ae6924-3926-41f2-8bd6-730d6a59e977">
+
 
 也可以加WX:JL2015-0102，拉您进最新微信内部交流群。进群可获取更多免费资源（群内也有包括免费授权码）
 
+<img width="229" alt="image" src="https://github.com/user-attachments/assets/ca65a7e0-6c0f-4abd-b0df-fe6987de4fe5">
 
 
 免费公益站点：https://freegpt.jjh.ink/
