@@ -10,6 +10,7 @@ ChatGPT官方版使用说明书
 
 下面以会员站点为例，免费公益站点类似！
 
+<img width="913" alt="image" src="https://github.com/user-attachments/assets/518de46b-096b-46c0-82a2-5609505de5e3">
 
 号外：
 
