@@ -3,15 +3,22 @@ ChatGPT官方版使用说明书
 官方站点网址
 
 免费公益官方站点：https://freegpt.jjh.ink/
+
 会员官方站点：       https://cloud.jlkjy.cn/
+
 菁林科技说AI官网地址： https://www.jlkjy.cn/
+
 下面以会员站点为例，免费公益站点类似！
 
 
 号外：
+
 1、GPTs资源网址：https://gpts.works/
+
 2、AI工具与资源：   https://nav.jjh.ink
+
 3、菁林系统维护升级中：https://chatgpt.jjh.ink
+
 4、菁林科技说AI官网地址：https://www.jlkjy.cn
 
 为什么选我们？
