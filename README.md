@@ -474,6 +474,14 @@ Scholar GPT也可以，应该查不到的数据库，地址：
 
 https://cloud.jlkjy.cn/g/g-kZ0eYXlJe-scholar-gpt
 
+### PDFAI助手（力推）
+
+帮助阅读和理解分析硕博研究生学术文献的AI最佳智能助手
+
+地址：https://cloud.jlkjy.cn/g/g-uBqsZLngl-pdfaizhu-shou
+
+<img width="584" alt="PDFAI 2024-07-30 161123" src="https://github.com/user-attachments/assets/bd51248a-6797-49d9-9c7e-3ac8e056a343">
+
 ### PDF学术分析（AskYourPDF）
 
 地址：https://cloud.jlkjy.cn/g/g-UfFxTDMxq-askyourpdf-research-assistant
