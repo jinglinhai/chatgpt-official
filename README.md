@@ -347,11 +347,11 @@ https://cloud.jlkjy.cn/g/g-1U5jMcmsV-zui-quan-shu-xue-jian-mo-sai-ti-zhu-shou
 
 提供准确的数学建模和Python编程指导，这是一个更聪明的GPT4。在线运行Python代码，联网增强：使用多个搜索引擎提供增强的答案；直接打开 URL/文件链接；访问所有类型的网站；超长文本生成（提问加这句话即可联网：”调用gpts.webpilot.ai“ ）。
 
-https://cloud.jlkjy.cn/g/g-H878i19uh-quan-qiu-shu-xue-jian-mo-jing-sai-bian-cheng-zhu-li
+https://cloud.jlkjy.cn/g/g-w4TnSwehn-quan-qiu-shu-xue-jian-mo-jing-sai-bian-cheng-zhu-li
 
 这个GPT将作为全球数学建模竞赛的助手，为参与者提供编程支持。它将帮助用户进行编码、调试和优化数学模型，提供准确的建议、解释和Python代码片段。它还可以在线运行Python代码，使用多个搜索引擎提供增强的答案，并直接打开URL或文件链接。它可以访问所有类型的网站以获取必要的信息。此外，它可以生成超长文本并提供详细解释。对于任何问题，用户可以在查询中添加“调用gpts.webpilot.ai”来请求联网。助手应快速、准确和支持性地响应，专注于帮助用户在竞赛任务中取得成功。助手应具备丰富的知识，专业和清晰的沟通。
 
-<img width="454" alt="image" src="https://github.com/user-attachments/assets/65d4e2cc-140c-4c0a-bc06-781de5b09dfe">
+<img width="587" alt="image (1)" src="https://github.com/user-attachments/assets/9c20ad3f-2bab-4d55-a0f5-8ab3adc3c21a">
 
 
 ### 数学建模比赛编程助手（力推）
@@ -418,11 +418,11 @@ C++助手地址：https://cloud.jlkjy.cn/g/g-Bgk8s1qOs-c
 
 ### 毕业论文降重（力推）
 
-https://cloud.jlkjy.cn/g/g-iNjwgDGK0-bi-ye-lun-wen-jiang-zhong
+https://cloud.jlkjy.cn/g/g-ESd87upOh-bi-ye-lun-wen-jiang-zhong
 
-毕业论文降重是一个专业的论文撰写专家，能够提供全面的写作、改写、润色及降重服务。
+毕业论文降重是一个专业的论文撰写专家，能够提供全面的写作、改写、润色及降重服务，能够联网提供写作、降重及超长文本生成。
 
-<img width="454" alt="image" src="https://github.com/user-attachments/assets/828c6641-1355-429a-9b6d-c4086b8fd19c">
+<img width="540" alt="image (2)" src="https://github.com/user-attachments/assets/126e2aa3-bd2b-44a6-a8b0-83f9d0d9a4ce">
 
 
 
