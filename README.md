@@ -152,9 +152,9 @@ https://docs.qq.com/doc/DWk54VWVhZFJPZHhuhttps://docs.qq.com/doc/DWk54VWVhZFJPZH
 
 2、可以按如需方式下载原始对话文件，上传到新的聊天框即可继续聊天，就不用重复上传之前的文件了！
 
-![微信图片_20240817172146](https://github.com/user-attachments/assets/9c4012fd-1f1a-4c36-bd04-3accea46ee69)
+![9402e7b26b90436cdbe9543d559f357](https://github.com/user-attachments/assets/2963651e-8ed1-478a-83e4-50a3533a14e0)
 
-![微信图片_20240817172154](https://github.com/user-attachments/assets/3a597e69-17a6-4896-9a46-ad455d65e4bf)
+![4703d8dddf9b965b934f2f1a8698dc9](https://github.com/user-attachments/assets/06592ed8-4070-4426-b352-c4e6e68fca2f)
 
 3、企业版Team账号Plus：企业版空间和个人空间是隔离的，是属于不同的两个空间，对话不是存在一起的，是分开的。企业版空间有GPTs商店功能，而个人空间不具有GPTs，如下图：
 
