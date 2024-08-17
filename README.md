@@ -144,13 +144,19 @@ https://docs.qq.com/doc/DWk54VWVhZFJPZHhuhttps://docs.qq.com/doc/DWk54VWVhZFJPZH
 
 ## 初次使用疑问解答：
 
-1、出现如下提示，说明该车（对应账号）或者该授权码已触发官网Plus限制（每3小时40次），一个授权码是每3小时60-80次4.0/4o提问，请退出换一个账号或者换一个Plus授权码使用，也可以等待上面提示的时间后，新建对话，方可继续使用Plus！
+1、出现GPT4无次数，如下提示，说明该车（对应账号）已触发官网Plus限制，而一个授权码是每24小时300次4.0/4o提问，请换号换一个入口新建对话可继续使用！
 
-免费点由于使用人较多，请避开高峰期合理使用；会员点不必考虑，会员点账号更多，授权码为独享或3人共享，会员点体验感会更好，随时随地可用！
+免费点由于使用人较多，而且Plus体验次数很少受限制，请避开高峰期合理使用；会员点不必考虑，会员点账号更多，授权码为独享或3人共享，会员点体验感会更好，一个授权码Plus次数每24小时300次，随时随地可用！
 
 <img width="454" alt="image" src="https://github.com/user-attachments/assets/318e5eab-ac2f-4380-863c-23ea89dded81">
 
-2、企业版Team账号Plus：企业版空间和个人空间是隔离的，是属于不同的两个空间，对话不是存在一起的，是分开的。企业版空间有GPTs商店功能，而个人空间不具有GPTs，如下图：
+2、可以按如需方式下载原始对话文件，上传到新的聊天框即可继续聊天，就不用重复上传之前的文件了！
+
+![微信图片_20240817172146](https://github.com/user-attachments/assets/9c4012fd-1f1a-4c36-bd04-3accea46ee69)
+
+![微信图片_20240817172154](https://github.com/user-attachments/assets/3a597e69-17a6-4896-9a46-ad455d65e4bf)
+
+3、企业版Team账号Plus：企业版空间和个人空间是隔离的，是属于不同的两个空间，对话不是存在一起的，是分开的。企业版空间有GPTs商店功能，而个人空间不具有GPTs，如下图：
 
      企业版空间（有GPTs）：
 
@@ -160,11 +166,11 @@ https://docs.qq.com/doc/DWk54VWVhZFJPZHhuhttps://docs.qq.com/doc/DWk54VWVhZFJPZH
 
 <img width="437" alt="image" src="https://github.com/user-attachments/assets/e9b57c9b-a414-4d44-86bc-9f87fa6cfbf1">
 
-3、个人版本Team号Plus无GPTs，如下图：
+4、个人版本Team号Plus无GPTs，如下图：
 
 <img width="437" alt="image" src="https://github.com/user-attachments/assets/ae1e06ba-312c-4d02-8f57-acc901a148fe">
 
-4、非Team号Plus有GPTs，如下图：
+5、非Team号Plus有GPTs，如下图：
 
 <img width="437" alt="image" src="https://github.com/user-attachments/assets/f564d3e3-6c7f-43a6-ab58-8efd6ccfab63">
 
