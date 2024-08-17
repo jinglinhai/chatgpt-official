@@ -132,7 +132,7 @@ https://docs.qq.com/doc/DWk54VWVhZFJPZHhuhttps://docs.qq.com/doc/DWk54VWVhZFJPZH
 
 <img width="454" alt="image" src="https://github.com/user-attachments/assets/eecb5d70-b783-4146-b913-2744461675b5">
 
-其中GPT-4的频率限制为每3小时40次提问频率，注意是频率，不是总共只能用这么点。GPT-3.5则对你来说是无限次的。一个授权码的4.0/4o次数是每3小时60-80次。
+其中GPT-4/4.0的频率限制为每24小时300次提问频率，注意是频率，不是总共只能用这么点。GPT-4o mini则对你来说是无限次的。一个授权码的4.0/4o次数是每24小时300次。
 
 这里是对话框，需要问什么，可以在这里进行提问：
 
@@ -152,13 +152,13 @@ https://docs.qq.com/doc/DWk54VWVhZFJPZHhuhttps://docs.qq.com/doc/DWk54VWVhZFJPZH
 
 2、可以按如需方式下载原始对话文件，上传到新的聊天框即可继续聊天，就不用重复上传之前的文件了！
 
-<img width="755" alt="屏幕截图 2024-08-17 172617" src="https://github.com/user-attachments/assets/42f9e126-57b6-405c-b6c0-f64b3c526017">
+<img width="454" alt="屏幕截图 2024-08-17 172617" src="https://github.com/user-attachments/assets/42f9e126-57b6-405c-b6c0-f64b3c526017">
 
-<img width="759" alt="屏幕截图 2024-08-17 172636" src="https://github.com/user-attachments/assets/c3df975a-d8f4-4051-b625-0422e78e6b8d">
+<img width="454" alt="屏幕截图 2024-08-17 172636" src="https://github.com/user-attachments/assets/c3df975a-d8f4-4051-b625-0422e78e6b8d">
 
 3、GPT4 文件上传失败。解决办法：新建对话上传。如果上传依然报错如下截图所示，请切换手机热点尝试；如果手机热点依然上传失败，只能用魔法；如果没有魔法，翻阅到本文最下方的魔法推荐，看教程自己安装即可。
 
-![image](https://github.com/user-attachments/assets/301e8204-ba50-40a0-8e55-cb193f5d5fd7)
+<img width="454" alt="image" src="https://github.com/user-attachments/assets/31719070-f7e8-4a4c-a0c3-703395e73cd9">
 
 如果依然无法解决，请联系客服微信处理，微信：JL2015-0102
 
