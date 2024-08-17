@@ -132,7 +132,7 @@ https://docs.qq.com/doc/DWk54VWVhZFJPZHhuhttps://docs.qq.com/doc/DWk54VWVhZFJPZH
 
 <img width="454" alt="image" src="https://github.com/user-attachments/assets/eecb5d70-b783-4146-b913-2744461675b5">
 
-其中GPT-4/4.0的频率限制为每24小时300次提问频率，注意是频率，不是总共只能用这么点。GPT-4o mini则对你来说是无限次的。一个授权码的4.0/4o次数是每24小时300次。
+其中GPT-4/4.0的频率限制为每24小时300次提问频率，注意是频率，不是总共只能用300次。GPT-4o mini则对你来说是无限次的。一个授权码的4.0/4o次数是每24小时300次。
 
 这里是对话框，需要问什么，可以在这里进行提问：
 
@@ -162,7 +162,7 @@ https://docs.qq.com/doc/DWk54VWVhZFJPZHhuhttps://docs.qq.com/doc/DWk54VWVhZFJPZH
 
 如果依然无法解决，请联系客服微信处理，微信：JL2015-0102
 
-3、企业版Team账号Plus：企业版空间和个人空间是隔离的，是属于不同的两个空间，对话不是存在一起的，是分开的。企业版空间有GPTs商店功能，而个人空间不具有GPTs，如下图：
+4、企业版Team账号Plus：企业版空间和个人空间是隔离的，是属于不同的两个空间，对话不是存在一起的，是分开的。企业版空间有GPTs商店功能，而个人空间不具有GPTs，如下图：
 
      企业版空间（有GPTs）：
 
@@ -172,11 +172,11 @@ https://docs.qq.com/doc/DWk54VWVhZFJPZHhuhttps://docs.qq.com/doc/DWk54VWVhZFJPZH
 
 <img width="437" alt="image" src="https://github.com/user-attachments/assets/e9b57c9b-a414-4d44-86bc-9f87fa6cfbf1">
 
-4、个人版本Team号Plus无GPTs，如下图：
+个人版本Team号Plus无GPTs，如下图：
 
 <img width="437" alt="image" src="https://github.com/user-attachments/assets/ae1e06ba-312c-4d02-8f57-acc901a148fe">
 
-5、非Team号Plus有GPTs，如下图：
+非Team号Plus有GPTs，如下图：
 
 <img width="437" alt="image" src="https://github.com/user-attachments/assets/f564d3e3-6c7f-43a6-ab58-8efd6ccfab63">
 
