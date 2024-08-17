@@ -144,7 +144,7 @@ https://docs.qq.com/doc/DWk54VWVhZFJPZHhuhttps://docs.qq.com/doc/DWk54VWVhZFJPZH
 
 ## 初次使用疑问解答：
 
-1、出现GPT4无次数，如下提示，说明该车（对应账号）已触发官网Plus限制，而一个授权码是每24小时300次4.0/4o提问，请换号换一个入口新建对话可继续使用！
+1、出现GPT4无次数，如下图提示。说明该车（对应账号）已触发官网Plus限制，而一个授权码是每24小时300次4.0/4o提问，请换号换一个入口新建对话可继续使用！
 
 免费点由于使用人较多，而且Plus体验次数很少受限制，请避开高峰期合理使用；会员点不必考虑，会员点账号更多，授权码为独享或3人共享，会员点体验感会更好，一个授权码Plus次数每24小时300次，随时随地可用！
 
@@ -156,6 +156,11 @@ https://docs.qq.com/doc/DWk54VWVhZFJPZHhuhttps://docs.qq.com/doc/DWk54VWVhZFJPZH
 
 <img width="759" alt="屏幕截图 2024-08-17 172636" src="https://github.com/user-attachments/assets/c3df975a-d8f4-4051-b625-0422e78e6b8d">
 
+3、GPT4 文件上传失败。解决办法：新建对话上传。如果上传依然报错如下截图所示，请切换手机热点尝试；如果手机热点依然上传失败，只能用魔法；如果没有魔法，翻阅到本文最下方的魔法推荐，看教程自己安装即可。
+
+![image](https://github.com/user-attachments/assets/301e8204-ba50-40a0-8e55-cb193f5d5fd7)
+
+如果依然无法解决，请联系客服微信处理，微信：JL2015-0102
 
 3、企业版Team账号Plus：企业版空间和个人空间是隔离的，是属于不同的两个空间，对话不是存在一起的，是分开的。企业版空间有GPTs商店功能，而个人空间不具有GPTs，如下图：
 
