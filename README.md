@@ -629,7 +629,7 @@ GPT帮你完成了对应的文本内容，你依然需要人为的去检查和�
 
 ## 魔法推荐
 
-地址：[https://www.zzsj.pro](https://www.zzsj1.com/#/register?code=d1pJjw32)
+地址：https://www.zzsj1.com/#/register?code=d1pJjw32
 
 推荐原因：个别地区无法正常访问网站，或者无法正常上传文件。需要魔法才能正常访问。
 
