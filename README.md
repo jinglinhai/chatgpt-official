@@ -229,6 +229,17 @@ https://cloud.jlkjy.cn/g/g-2fkFE8rbu-dall-e
 
 <img width="454" alt="image" src="https://github.com/user-attachments/assets/4dca1d43-4bd1-4df1-b7e4-8b2684bdbf07">
 
+## O1模型的正确使用
+
+首先用4O模型识别出来：
+
+![373933869-88e552c5-ef02-4722-affe-2e4b0cbb9c01](https://github.com/user-attachments/assets/61cb01ed-9230-45b2-afeb-dc430faa9734)
+
+点击复制按钮，复制出来，把多余的内容删除，粘贴到O1-mini模型这边：
+
+![373933917-d172a3f3-521a-4067-bd75-41ad505e467a](https://github.com/user-attachments/assets/be3b911c-f075-472c-ab2b-d9db68c1e6ed)
+
+
 ## 优秀的GPTS推荐（GPTs链接进入需要登录授权码状态下）
 
 为什么需要使用GPTS呢？因为它能更加专业回答你的问题，因此如果你觉得主界面提问回答质量不够理想，可以去选择一个合适的GPTS使用。
