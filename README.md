@@ -30,7 +30,7 @@
 
 选择plus账号进入，输入授权码，如下所示：
 
-<img width="1151" alt="屏幕截图 2025-03-12 151407" src="https://github.com/user-attachments/assets/2303b0f3-9b98-4f66-b296-ee0dc4bf6619" />
+<img width="500" alt="屏幕截图 2025-03-12 151407" src="https://github.com/user-attachments/assets/2303b0f3-9b98-4f66-b296-ee0dc4bf6619" />
 
 售后/售前交流QQ群：812157138 
 
