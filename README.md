@@ -12,6 +12,8 @@
 
 <img width="454" alt="image" src="https://github.com/user-attachments/assets/95b47623-6081-4364-b1fe-f83052d56b20">
 
+<img width="376" alt="2025-03-12 150528" src="https://github.com/user-attachments/assets/c41024c0-01cd-42f8-b690-78a8c58b12df" />
+
 号外：
 
 1、GPTs资源网址：https://gpts.works/
@@ -28,7 +30,7 @@
 
 选择plus账号进入，输入授权码，如下所示：
 
-<img width="454" alt="image" src="https://github.com/user-attachments/assets/a3ecbf6c-1802-4436-8043-f1f5bdb10fe2">
+<img width="1151" alt="屏幕截图 2025-03-12 151407" src="https://github.com/user-attachments/assets/2303b0f3-9b98-4f66-b296-ee0dc4bf6619" />
 
 售后/售前交流QQ群：812157138 
 
